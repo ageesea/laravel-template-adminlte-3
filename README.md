@@ -30,7 +30,7 @@ This is only a Laravel Template using the AdminLTE UI v3
    
 > You can run `npm run prod` to compile javascript files in production mode
 
-> You can also run `npm run watch` to watch your javascript files an compile when there's a changes.
+> You can also run `npm run watch` to watch your javascript files and compile when there's a change.
 
 10. Done! You can now modify the template according to your project specifications.
 
