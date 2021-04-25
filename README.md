@@ -7,6 +7,10 @@ This is only a Laravel Template using the AdminLTE UI v3
 ## Features
 * Basic Authentication (with default user)
 
+## Component's Version
+* Laravel 8
+* AdminLTE v3
+
 ## Installation
 1. git clone https://github.com/ageesea/laravel-template-adminlte-3.git
 2. `cd laravel-template-adminlte-3`
