@@ -25,6 +25,9 @@ This is only a Laravel Template using the AdminLTE UI v3
 > Note! you need to edit your .env file with your credentials before executing the above command.
 8. Done! You can now modify the template according to your project specifications.
 
+## How to use
+* This project uses the laravel's legacy authentication using Laravel/UI 
+
 ## Licenses
 1. The license of the AdminLTE v3 can be found [here](https://adminlte.io/docs/3.0/license.html).
 
