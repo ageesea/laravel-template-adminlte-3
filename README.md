@@ -13,11 +13,13 @@ This is only a Laravel Template using the AdminLTE UI v3
 
 ## Installation
 1. Generate your project by clicking **"Use this template"** button
-2. Follow the necessary step
-3. `composer install` - to install dependencies
-4. `cp .env.example .env` - to copy the default environment file to a new file
-5. `php artisan key:generate` - generate laravel application key
-6. `php artisan migrate --seed` - to migrate database and load default data
+2. Give your project a wonderful name.
+3. Clone the generated project.
+4. cd _< Your Project Directory Name >_
+5. `composer install` - to install dependencies
+6. `cp .env.example .env` - to copy the default environment file to a new file
+7. `php artisan key:generate` - generate laravel application key
+8. `php artisan migrate --seed` - to migrate database and load default data
 
 > Note! you need to edit your .env file with your credentials before executing the above command.
 
