@@ -11,7 +11,7 @@ This is only a Laravel Template using the AdminLTE UI v3
 * Laravel 8
 * AdminLTE v3
 
-## Installation
+## How to use
 1. Generate your project by clicking **"Use this template"** button
 2. Give your project a wonderful name.
 3. Clone the generated project.
@@ -32,7 +32,7 @@ This is only a Laravel Template using the AdminLTE UI v3
 
 9. Done! You can now modify the template according to your project specifications.
 
-## How to use
+## Note
 * This project uses the laravel breeze as authentication features
 
 ## Licenses
